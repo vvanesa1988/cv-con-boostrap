@@ -1,0 +1,14 @@
+*{
+background-color: rgb(15, 14, 13);
+color: beige;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#imgperfil{
+    border-radius: 100%;
+    
+}
+
+.titulo{
+    font-size: 500%;
+    text-align: center;
+}
